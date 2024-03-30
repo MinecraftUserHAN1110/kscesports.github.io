@@ -44,7 +44,7 @@ body {
 
 #background-line {
     height: 98.25vh;
-    background-image: url('../assets/image.jpg');
+    background-image: url('assets/image.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
