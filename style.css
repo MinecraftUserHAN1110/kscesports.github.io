@@ -1,0 +1,91 @@
+body {
+    align-content: center;
+}
+
+.title {
+    text-align: center;
+    color: white;
+    font-size: 48px;
+}
+
+.join-button {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #5073B8; /* 버튼의 배경색 */
+    border: none;
+    border-radius: 20px; /* 버튼의 둥근 모서리 정도 */
+    color: white; /* 글자 색상 */
+    text-align: center;
+    text-decoration: none; /* 텍스트 밑줄 제거 */
+    font-size: 16px;
+    font-weight: bold; /* 글자 두께 */
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.text {
+    left: 20%;
+    font-size: 24px;
+    color: white;
+    padding-left: 10px;
+    padding-top: 35px;
+}
+
+.L65 {
+    padding-top: 100px;
+    padding-left: 65%;
+    color: white;
+}
+
+#background-line {
+    height: 98.25vh;
+    background-image: url('assets/image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.color-green {
+    color: green;
+}
+
+.color-gold {
+    color: gold
+}
+
+.color-orange {
+    color: orange;
+}
+
+.color-red {
+    color: red;
+}
+
+.color-aqua {
+    color: aqua;
+}
+
+.color-purple {
+    color: purple;
+}
+
+.color-pink {
+    color: palevioletred;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+#background-black {
+    height: 95vh;
+    background-color: #140114;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
